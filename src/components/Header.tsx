@@ -40,7 +40,7 @@ const Header = ({
             <img
               src="/src/images/SRM_logo.jpg"
               alt="SRM Logo"
-              className="h-10 w-10"
+              className="h-14 w-14"
             />
             <div>
               <h1 className="text-xl font-bold text-primary">

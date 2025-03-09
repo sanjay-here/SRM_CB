@@ -15,6 +15,7 @@ import {
   Coffee,
   Laptop,
   Lightbulb,
+  User,
   Utensils,
   Wifi,
 } from "lucide-react";
@@ -38,6 +39,7 @@ const iconMap: Record<string, React.ReactNode> = {
   building: <Building className="h-10 w-10" />,
   other: <Lightbulb className="h-10 w-10" />,
   lightbulb: <Lightbulb className="h-10 w-10" />,
+  user: <User className="h-10 w-10" />,
 };
 
 const CategoryCard = ({

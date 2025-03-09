@@ -52,6 +52,12 @@ const defaultCategories: CategoryItem[] = [
     description: "Problems with clubs, sports, and event management",
     icon: "lightbulb",
   },
+  {
+    id: "7",
+    title: "Ragging & Student Conduct",
+    description: "Report ragging incidents, student misbehavior, or fights",
+    icon: "user",
+  },
 ];
 
 const CategoryGrid = ({
